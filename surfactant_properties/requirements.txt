@@ -1,0 +1,7 @@
+chemprop
+pandas
+numpy
+scikit-learn
+matplotlib
+openpyxl
+

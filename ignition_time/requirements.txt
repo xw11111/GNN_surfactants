@@ -1,0 +1,8 @@
+chemprop
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+openpyxl
+
